@@ -35,3 +35,15 @@ CREATE TABLE Compaign(
 	FOREIGN KEY (subcategory_id) REFERENCES Subcategory(subcategory_id)
 );
 
+Select *
+From Contacts;
+
+Select *
+From Category;
+
+Select *
+From Subcategory;
+
+Select *
+From Compaign;
+
